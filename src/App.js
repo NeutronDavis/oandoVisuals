@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Oando Visuals by NEUTRON DAVIS</h1>
+        <h1>OandoVisuals by NEUTRON DAVIS</h1>
       </header>
       <main className="dashboard-container">
         <iframe
